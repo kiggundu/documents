@@ -1,0 +1,5 @@
+A long list of things to do
+- [ ] complete installation of MT tool in ~/workspace/tools/MTOS to support movablt-type and vim-markdown plugin below
+  - [ ] complete installation of vim-markdown plugin
+  - [ ] complete installation of movable-type at https://movabletype.org/documentation/installation/install-movable-type.html download to ~/tools.
+
